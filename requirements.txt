@@ -1,0 +1,12 @@
+ipykernel==6.29.5
+matplotlib==3.9.2
+numpy==1.26.4
+pandas==2.2.3
+ruff==0.6.9
+scikeras==0.13.0
+scikit-learn==1.5.2
+streamlit==1.38.0
+tensorboard==2.17.1
+tensorflow==2.17.0
+uvicorn==0.30.6
+scipy==1.14.1
